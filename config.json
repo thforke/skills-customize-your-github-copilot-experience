@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-basics",
+      "title": "SQLite Basics with Python",
+      "description": "Build a beginner-friendly local database app using SQLite and Python queries.",
+      "path": "assignments/sqlite-basics",
+      "dueDate": "2026-05-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
